@@ -8,4 +8,4 @@ This wiki describes the content of this repository how you can leverage it in yo
 
 ## Navigation
 
-- [Getting started](Getting-started/Getting-started.md)
+- [Getting started](wiki/Getting-started/Getting-started.md)
