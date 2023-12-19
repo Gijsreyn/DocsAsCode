@@ -1,0 +1,12 @@
+{
+    "Insert markdown table": {
+        "prefix": "table",
+        "scope": "markdown",
+        "body": [
+            "| ${0:title} | ${1:author} | ${2:rating} |",
+            "| ----- | ------ | ------ |",
+            "|       |        |        |"
+        ],
+        "description": "Insert table"
+    }    
+}
